@@ -365,7 +365,7 @@
                     "Divisions"
                 ],
                 "summary": "Get list of divisions",
-                "description": "Returns paginated list of divisions with filtering and sorting",
+                "description": "Returns paginated",
                 "operationId": "getDivisionsList",
                 "parameters": [
                     {

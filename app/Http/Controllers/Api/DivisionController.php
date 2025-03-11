@@ -13,7 +13,7 @@ use OpenApi\Annotations as OA;
  *      operationId="getDivisionsList",
  *      tags={"Divisions"},
  *      summary="Get list of divisions",
- *      description="Returns paginated list of divisions with filtering and sorting",
+ *      description="Returns paginated",
  *      security={{"bearerAuth":{}}},
  *      @OA\Parameter(
  *          name="name",
