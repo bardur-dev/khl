@@ -24,7 +24,7 @@ use OpenApi\Annotations as OA;
  *      ),
  *      @OA\Parameter(
  *          name="sort",
- *          description="Sort field (default: id)",
+ *          description="Sort field ",
  *          required=false,
  *          in="query",
  *          @OA\Schema(type="string", enum={"id", "name"})
